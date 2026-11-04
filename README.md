@@ -1,38 +1,51 @@
 <img src="assets/banner.png" alt="whistleworks — AI engineer · student" width="100%">
 
-### Hi, I'm Alessio 👋
+## Alessio Fischetti
 
-I'm a student and an AI engineer in the making. I build software by **directing AI coding agents**. I own the product, the architecture and the quality bar. The agent writes the code with me, and I verify everything before it ships.
+**High school student · AI engineer in the making · Italy**
+
+I build complete software products by **directing AI coding agents**. I own the product vision, the architecture, the quality bar and the release. The agent writes code with me, and I verify every change before it ships.
+
+📫 **fischetti.alessioo@gmail.com** · 🎮 [whistleworks.itch.io](https://whistleworks.itch.io)
 
 ---
 
-### Nº01 — PRIMATO 2087
+### Featured project · PRIMATO 2087
 
 <a href="https://whistleworks.itch.io/primato-2087"><img src="assets/primato-2087.png" alt="PRIMATO 2087" width="100%"></a>
 
-A pixel-art geopolitical simulator that runs in the browser. You play against 195 AI-driven nations, with wars, a trade economy, navies, nuclear fallout and elections, on a real world map.
-
-- **~23k lines of strict TypeScript, zero runtime dependencies**
-- **Pure, deterministic simulation core** that runs headless in Node exactly as in the browser
-- **13 headless simulation tests**, including a 60-year run that checks invariants every month
-- **Procedural rock soundtrack**, synthesised live with the Web Audio API
-
-[▶ Play on itch.io](https://whistleworks.itch.io/primato-2087) · [Source code](https://github.com/whistleworks/primato-2087)
-
----
-
-### How I work with AI agents
+**A pixel-art geopolitical strategy game that runs in the browser.** You play against 195 AI-controlled nations on a real world map, with wars, trade, navies, nuclear fallout, elections and coups. It is released and playable on itch.io.
 
 | | |
 |---|---|
-| **Spec first** | A living `CLAUDE.md` holds the architecture rules, the constraints and a log of every decision, so each agent session starts with the full context. |
-| **Small milestones** | One feature at a time, then I playtest and review before the next one. |
-| **Verify, don't trust** | Type-checks, headless simulations and browser automation (Chrome DevTools Protocol) run before every release. |
-| **Ship it** | From idea to a published game, with assets, packaging and release handled end to end. |
+| **My role** | Product owner, game designer and technical lead. I directed an AI coding agent from the first prototype to the public v1.0.0 release. |
+| **Scale** | ~23,000 lines of strict TypeScript across 56 simulation modules, with zero runtime dependencies |
+| **Architecture** | A pure, deterministic simulation core (seeded RNG, no DOM), separated from the Canvas renderer and the UI. The same core runs in the browser and headless in Node. |
+| **Quality** | 13 headless simulation tests, including a 60-year run that checks game-state invariants every month. Browser automation with the Chrome DevTools Protocol. Average simulation step ≈ 1.7 ms. |
+| **Extras** | Procedural rock soundtrack synthesised with the Web Audio API, versioned save files with migrations, privacy by design (no tracking, no external requests) |
+| **Shipping** | Production build, packaging, store page, theming and release, handled end to end |
 
-**Tools:** TypeScript · Node.js · Vite · Canvas 2D · Web Audio · Claude Code · Git
+[▶ **Play it on itch.io**](https://whistleworks.itch.io/primato-2087) · *Source code is private and available to employers on request.*
 
 ---
 
-<sub>Italia · building in public on [itch.io](https://whistleworks.itch.io)</sub>
+### Skills
 
+| | |
+|---|---|
+| **AI engineering** | Agentic coding workflows (Claude Code), spec-driven development, context engineering, verifying AI output |
+| **Languages** | TypeScript, JavaScript, HTML, CSS |
+| **Engineering** | Simulation and game architecture, Canvas 2D, Web Audio, Vite, Node.js, Git |
+| **Testing** | Headless simulation testing, invariant checks, browser automation (CDP) |
+| **Product** | Game and systems design, UX iteration from playtesting, publishing and release |
+
+### How I work with AI agents
+
+1. **Spec first.** A living `CLAUDE.md` defines the architecture rules, the constraints and a log of every decision, so each session starts with the full context.
+2. **Small milestones.** I build one feature at a time, then playtest and review it before starting the next one.
+3. **Verify, don't trust.** Type-checks, simulations and automated browser runs gate every release.
+4. **Ship.** I take projects from idea to a public release.
+
+---
+
+<sub>© 2026 Alessio Fischetti · whistleworks. All rights reserved.</sub>
