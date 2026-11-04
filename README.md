@@ -1,12 +1,12 @@
-<img src="assets/banner.png" alt="whistleworks — AI engineer · student" width="100%">
+<img src="assets/banner.png" alt="whistleworks — building software with AI agents" width="100%">
 
 ## Alessio Fischetti
 
-**High school student · AI engineer in the making · Italy**
+**Software built with AI coding agents · Creator of PRIMATO 2087 · High school student, Rome**
 
 I build complete software products by **directing AI coding agents**. I own the product vision, the architecture, the quality bar and the release. The agent writes code with me, and I verify every change before it ships.
 
-📫 **fischetti.alessioo@gmail.com** · 🎮 [whistleworks.itch.io](https://whistleworks.itch.io)
+📫 **fischetti.alessioo@gmail.com** · 💼 [LinkedIn](https://www.linkedin.com/in/alessio-fischetti-831379439) · 🎮 [whistleworks.itch.io](https://whistleworks.itch.io)
 
 ---
 
