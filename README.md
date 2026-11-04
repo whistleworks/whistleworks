@@ -35,3 +35,4 @@ A pixel-art geopolitical simulator that runs in the browser. You play against 19
 ---
 
 <sub>Italia · building in public on [itch.io](https://whistleworks.itch.io)</sub>
+
